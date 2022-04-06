@@ -8,6 +8,7 @@ I am currently working under Patrick Bissett and Russel Poldrack, trying to unde
 
 I have growing interests in the following:
 ```markdown
+
 # Using fmri to study:
 - Depression
 - Sequential Control
