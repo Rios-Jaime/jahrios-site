@@ -1,27 +1,17 @@
-## Welcome to GitHub Pages
+## Jaime Ali Holguin Rios
 
-You can use the [editor on GitHub](https://github.com/Rios-Jaime/jahrios/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Research Coordinator for the Poldrack Lab in the Psychology Department at Stanford University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently working under Patrick Bissett and Russel Poldrack, trying to undertand the cognitive structure of response inhibition wihtin the brain. I focus on the using fmri methods to study cognitive control, more specifically response inhibition and self regulation.
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I have growing interests in the following:
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# Using fmri to study:
+- Depression
+- Sequential Control
+- Post-error Behavior
 
 [Link](url) and ![Image](src)
 ```
